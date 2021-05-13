@@ -5,7 +5,7 @@
 ### Two truths, One lie
 
 
-[x] Almost hit a police car but got away with it
+[ ] Almost hit a police car but got away with it
 <br>[ ] I am the youngest in the family
 <br>[ ] I used to work in IRD
 
