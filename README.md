@@ -3,7 +3,7 @@
 ## Christchurh-campus
 
 ## Two truths, One lie
-
+<html>
 <body>
 
 <input type="checkbox"> I am vegetarian  <br> 
@@ -11,3 +11,4 @@
 [ ] I am enrolled at WHitecliffe <br>
 
 </body>
+</html>
