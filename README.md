@@ -3,5 +3,5 @@
 ## Christchurh-campus
 
 ## yelloworld
-"Your-name-in-kebabcase"
+"Your-name-in-kebab-case"
 
