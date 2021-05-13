@@ -4,6 +4,7 @@
 
 ## Two truths, One lie
 
-[ ] I am vegetarian <br> 
+
+<input type="checkbox"> I am vegetarian  <br> 
 [ ] I met Dai Henwood in person <br>
 [ ] I am enrolled at WHitecliffe <br>
