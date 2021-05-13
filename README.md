@@ -12,5 +12,4 @@ I live in Sydenham
 I play softball
 I hate steak
 
-
-<br> play softball - lie *(who hates steak???) 
+<strong> Lie: I hate steak <strong>
