@@ -10,4 +10,4 @@
 
 
 
-<bold> Lie: lived in a car
+<strong> Lie: lived in a car</strong>
