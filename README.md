@@ -2,8 +2,4 @@
 
 ## Christchurh-campus
 
-## yelloworld
-## HELP
-
-
-## I'M CONFUSE!!
+### Two truths, One lie
