@@ -5,3 +5,9 @@
 ## yelloworld
 
 ## Help
+
+Two truths, One lie
+
+I live in Sydenham
+I play softball
+I hate steak
