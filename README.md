@@ -4,5 +4,6 @@
 
 ## Two truths, One lie
 
-[ ] I am vegan
-[ ] I met a Popular Comedian 
+[_] I am vegetarian <br> 
+[_] I met Dai Henwood in person <br>
+[_] I am enrolled in WHitecliffe <br>
